@@ -1,0 +1,20 @@
+{
+  "mark_btn": "#p-6-0-2-brand > .dropdown__controls > .dropdown__box > .dropdown__control > .dropdown-floatlabel__box > .dropdown-floatlabel__value",
+  "mark_input": ".dropdown__input",
+  "show_btn": ".filter__show-result > .button",
+  "model_btn": "#p-6-0-3-model > .dropdown__controls > .dropdown__box > .dropdown__control",
+  "model_select_button": "#p-6-0-3-model > .dropdown__controls > .dropdown__box > .dropdown-list > .dropdown-list__wrapper", 
+  "restyling": "#p-6-0-4-generation > .dropdown__controls > .dropdown__box > .dropdown-floatlabel > .dropdown-floatlabel__box > .dropdown-floatlabel__value",
+  "select_years_from_btn": "#p-7-year > .dropdown__controls > :nth-child(1) > .dropdown__control > .dropdown-floatlabel__box",
+  "select_years_from": "#p-7-year > .dropdown__controls > :nth-child(1) > .dropdown-list > .dropdown-list__wrapper",
+  "select_years_to_btn": "#p-7-year > .dropdown__controls > :nth-child(2) > .dropdown__control > .dropdown-floatlabel__box > .dropdown-floatlabel__value",
+  "select_years_to": "#p-7-year > .dropdown__controls > :nth-child(2) > .dropdown-list > .dropdown-list__wrapper",
+  "price_from_btn": ":nth-child(1) > .richinput-control__box > #p-9-price_usd",
+  "price_to_btn": ":nth-child(2) > .richinput-control__box > #p-9-price_usd",
+  "show": ".filter__show-result > .button",
+  "sorting_btn": ".dropdown-link__value",
+  "sorting_value_btn": ".listing__sort > .dropdown > .dropdown__controls > .dropdown__box > .dropdown-list > .dropdown-list__wrapper"
+
+
+}
+

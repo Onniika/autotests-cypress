@@ -1,0 +1,6 @@
+{
+  "phone": "#phone",
+  "password": "[aria-labelledby='по телефону'] > .flyer__body > form > .flyer__form > :nth-child(2) > .flyer__control > #passwordPhone",
+  "comein_btn": "[aria-labelledby='по телефону'] > .flyer__body > form > .flyer__form > .flyer__submit > .button",
+  "dnt_remember_btn": "[aria-labelledby='по телефону'] > .flyer__body > form > .flyer__form > .flyer__forgot > a"
+}
